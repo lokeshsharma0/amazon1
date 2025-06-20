@@ -20,7 +20,7 @@ a:hover {
   color: #ddd;
 }
 
-/* Header or Navbar */
+
 header {
   width: 100%;
   background-color: #0f1111;
@@ -165,7 +165,7 @@ header {
   white-space: nowrap;
 }
 
-/* Hero Section */
+
 .hero-section {
   height: 400px;
   background-image: url("images/hero-img.jpg");
@@ -173,7 +173,6 @@ header {
   background-size: cover;
 }
 
-/* Shop Section */
 .shop-section {
   display: flex;
   align-items: center;
@@ -225,7 +224,7 @@ header {
   text-decoration: underline;
 }
 
-/* Footer */
+
 .footer-title {
   display: flex;
   align-items: center;
